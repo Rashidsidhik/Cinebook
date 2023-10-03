@@ -18,7 +18,7 @@ Overall, a weather web app made in Node Express using Mapbox Geocode API and Wea
 Clone the project
 
 ```bash
-  git clone https://github.com/Riyas-iqbal/Weather-app.git
+  git clone https://github.com/Rashidsidhik/Weather-app.git
 ```
 
 Go to the project directory
